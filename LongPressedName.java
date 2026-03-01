@@ -6,7 +6,6 @@ public class LongPressedName {
         String name = sc.next();
         System.out.println("Enter the Second String: ");
         String typed = sc.next();
-
         int i = 0;
         int j= 0;
         while(j < typed.length()){
